@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "email": "gopalkrishna@gmail.com",
+      "password": "1234",
+      "username": "Gopal"
+    },
+    {
+      "email": "krish@gmail.com",
+      "password": "1234",
+      "username": "Krish"
+    },
+    {
+      "email": "gk@gmail.com",
+      "password": "1234",
+      "username": "gk"
+    }
+  ]
+}

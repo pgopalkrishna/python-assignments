@@ -1,0 +1,2 @@
+Hello, this is a text file.
+We can write multiple lines to the file.
